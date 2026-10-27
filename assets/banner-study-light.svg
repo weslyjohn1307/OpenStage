@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <pattern id="grid-light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#E6E2D6" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="8" fill="#F7F6F2" stroke="#8C887C" stroke-width="2"/>
+  <rect x="4" y="4" width="1192" height="312" rx="6" fill="url(#grid-light)"/>
+  <rect x="4" y="4" width="1192" height="36" fill="#EFECE6"/>
+  <line x1="4" y1="40" x2="1196" y2="40" stroke="#D6D2C4" stroke-width="1"/>
+  <circle cx="26" cy="22" r="5" fill="#B45309"/>
+  <text x="40" y="26" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#9F1239" letter-spacing="0.8">STUDY LIGHT THEME · FOR DESK &amp; PRINT</text>
+  <text x="910" y="26" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#065F46">[● 15.4:1 READABILITY · FREE FOREVER]</text>
+
+  <g transform="translate(64, 76) scale(1.3125)">
+    <rect x="6" y="6" width="116" height="116" rx="28" fill="#111318" stroke="#3D424F" stroke-width="1.5"/>
+    <g transform="rotate(-14 64 64)">
+      <rect x="24" y="34" width="80" height="60" rx="6" fill="#7C3AED" fill-opacity="0.28" stroke="#A78BFA" stroke-width="1.5"/>
+    </g>
+    <g transform="rotate(14 64 64)">
+      <rect x="24" y="34" width="80" height="60" rx="6" fill="#7C3AED" fill-opacity="0.28" stroke="#C4B5FD" stroke-width="1.5"/>
+    </g>
+    <path d="M64 16 L77 51 L112 64 L77 77 L64 112 L51 77 L16 64 L51 51 Z" fill="#8B5CF6" stroke="#EDE9FE" stroke-width="1.5"/>
+    <path d="M64 50 L68 60 L78 64 L68 68 L64 78 L60 68 L50 64 L60 60 Z" fill="#F59E0B"/>
+  </g>
+
+  <text x="268" y="138" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="68" font-weight="800" letter-spacing="-2.2" fill="#09090B">Open<tspan fill="#6D28D9">Stage</tspan></text>
+  <rect x="640" y="96" width="268" height="32" rx="4" fill="#EFECE6" stroke="#B45309" stroke-width="1.5"/>
+  <text x="774" y="117" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#92400E">v4.0 · RUST + WGPU + TAURI v2</text>
+
+  <text x="270" y="182" font-family="'Source Serif 4', Georgia, serif" font-size="21" font-style="italic" fill="#3D424F">Songs, Scripture and media on every screen, in any language.</text>
+
+  <g transform="translate(270, 206)" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700">
+    <rect x="0" y="0" width="186" height="30" rx="4" fill="#FFFFFF" stroke="#8C887C"/>
+    <text x="93" y="19" text-anchor="middle" fill="#111318">[F] SCRIPTURE FOCUS</text>
+
+    <rect x="198" y="0" width="206" height="30" rx="4" fill="#FFFFFF" stroke="#0E7490"/>
+    <text x="301" y="19" text-anchor="middle" fill="#155E75">[W] WORD STUDY</text>
+
+    <rect x="416" y="0" width="214" height="30" rx="4" fill="#FFFFFF" stroke="#047857"/>
+    <text x="523" y="19" text-anchor="middle" fill="#065F46">MULTI-LANGUAGE TEXT</text>
+
+    <rect x="642" y="0" width="224" height="30" rx="4" fill="#FFFFFF" stroke="#B45309"/>
+    <text x="754" y="19" text-anchor="middle" fill="#92400E">OFFLINE CAPTIONS</text>
+  </g>
+</svg>

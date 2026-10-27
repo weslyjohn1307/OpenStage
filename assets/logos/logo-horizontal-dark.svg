@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" width="680" height="160" fill="none">
+  <defs>
+    <linearGradient id="hStar" x1="20" y1="16" x2="140" y2="144" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#5B21B6"/>
+    </linearGradient>
+    <linearGradient id="hPlane" x1="24" y1="30" x2="136" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#4C1D95" stop-opacity="0.14"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="160" rx="20" fill="#09090B"/>
+  <!-- Beacon Mark -->
+  <g transform="translate(16, 16)">
+    <rect x="6" y="6" width="116" height="116" rx="28" fill="#121216" stroke="#27272A" stroke-width="2"/>
+    <g transform="rotate(-14 64 64)">
+      <rect x="24" y="34" width="80" height="60" rx="6" fill="url(#hPlane)" stroke="#A78BFA" stroke-opacity="0.5" stroke-width="1.5"/>
+    </g>
+    <g transform="rotate(14 64 64)">
+      <rect x="24" y="34" width="80" height="60" rx="6" fill="url(#hPlane)" stroke="#C4B5FD" stroke-opacity="0.6" stroke-width="1.5"/>
+    </g>
+    <path d="M64 16 L77 51 L112 64 L77 77 L64 112 L51 77 L16 64 L51 51 Z" fill="url(#hStar)" stroke="#EDE9FE" stroke-width="1.5"/>
+    <path d="M64 50 L68 60 L78 64 L68 68 L64 78 L60 68 L50 64 L60 60 Z" fill="#FBBF24"/>
+  </g>
+  <!-- Typography -->
+  <text x="166" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="60" font-weight="800" letter-spacing="-2.2" fill="#FAFAFA">Open<tspan fill="#A78BFA">Stage</tspan></text>
+  <!-- Version & License Pill -->
+  <rect x="498" y="60" width="146" height="30" rx="8" fill="#18181E" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1.5"/>
+  <text x="571" y="80" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="600" fill="#C4B5FD">v4.0 · GPL-3.0</text>
+  <text x="168" y="124" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="500" letter-spacing="1.8" fill="#71717A">LIVE WORSHIP &amp; BROADCAST PRODUCTION</text>
+</svg>

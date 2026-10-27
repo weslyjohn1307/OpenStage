@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 436" width="820" height="436">
+  <rect width="820" height="436" rx="6" fill="#0A0B0E" stroke="#363C4A" stroke-width="2"/>
+  <rect x="2" y="2" width="816" height="44" rx="4" fill="#101217"/>
+  <line x1="2" y1="46" x2="818" y2="46" stroke="#222630" stroke-width="1"/>
+  <circle cx="22" cy="24" r="5" fill="#F59E0B"/>
+  <text x="36" y="28" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F4F3EF">OPENSTAGE · BUILD PROGRESS</text>
+  <text x="610" y="28" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#FBBF24">PHASE 1 OF 12 · 14% COMPLETE</text>
+
+  <!-- Master Progress Bar -->
+  <text x="24" y="74" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#A6ABB8">MASTER COMPLETION:</text>
+  <rect x="170" y="62" width="520" height="16" rx="3" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+  <rect x="170" y="62" width="73" height="16" rx="3" fill="#F59E0B"/>
+  <text x="704" y="75" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="700" fill="#FBBF24">14% COMPLETE</text>
+  <line x1="24" y1="92" x2="796" y2="92" stroke="#222630" stroke-width="1"/>
+  
+  <g transform="translate(24, 104)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Foundation</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#10B981"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#6EE7B7">100% · ● DONE</text>
+  </g>
+  <g transform="translate(24, 130)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Bible &amp; Scripture</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#FBBF24">  0% · ○ NEXT</text>
+  </g>
+  <g transform="translate(24, 156)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Songs in Many Languages</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 182)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Screens &amp; Output Layers</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 208)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Schedule &amp; Timers</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 234)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Stage Displays &amp; Phones</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 260)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Video Playback</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 286)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Streaming, NDI &amp; OBS</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 312)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Sound &amp; Monitor Mixes</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 338)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Lower Thirds</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 364)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Live Captions &amp; Search</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+  <g transform="translate(24, 390)">
+    <text x="0" y="15" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#F4F3EF">Import, Plugins &amp; Release</text>
+    <rect x="290" y="3" width="260" height="14" rx="2" fill="#161920" stroke="#363C4A" stroke-width="1"/>
+    <rect x="290" y="3" width="0" height="14" rx="2" fill="#222630"/>
+    <text x="565" y="15" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#787E8C">  0% · ○ PLANNED</text>
+  </g>
+</svg>
